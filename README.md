@@ -7,3 +7,5 @@ Create a virtual slot machine using python code
 - Get amount to bet on each line
 - Multiply lines with bet amount to get total amount
 - Check balance against bet amount to discard invalid bet amount
+- Generate 3 x 3 slot machine matrix randomly from symbol frequency dictionary
+- Print slot machine
